@@ -57,17 +57,15 @@ mid-size devices and desktops.
 ## Screenshots
 
 ### `Home Page design`
-
 ![Home page screenshot](https://github.com/mrmohit786/responsive-portfolio/blob/master/assets/img/screenshots/Home.screenshot.jpg)
 
-### `Menu design for Small Devices`
+### `Work Page design`
+![Work page screenshot](https://github.com/mrmohit786/responsive-portfolio/blob/master/assets/img/screenshots/work.screenshot.jpg)
 
+### `Menu design for Small Devices`
 ![Menu page screenshot](https://github.com/mrmohit786/responsive-portfolio/blob/master/assets/img/screenshots/menu.screenshot.png)
 
 ### `Skills Page design for small devices`
-
 ![Skills page screenshot](https://github.com/mrmohit786/responsive-portfolio/blob/master/assets/img/screenshots/skills.screenshot.png)
 
-### `Work Page design`
 
-![Work page screenshot](https://github.com/mrmohit786/responsive-portfolio/blob/master/assets/img/screenshots/work.screenshot.jpg)
